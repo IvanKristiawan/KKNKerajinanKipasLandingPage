@@ -111,6 +111,11 @@
       "icon": "fa fa-paint-brush",
       "title": "Sablon Kipas",
       "text": "Sablon Kipas dengan tulisan berdasarkan pesanan Anda."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "title": "Pesanan",
+      "text": "Melayani pesanan Seni Kerajinan Kipas dalam jumlah besar untuk souvenir di berbagai macam acara."
     }
   ]
 }
