@@ -18,13 +18,18 @@
   "Gallery": [
     {
       "title": "Kipas Batik",
-      "largeImage": "img/portfolio/loro-blonyo.jpg",
-      "smallImage": "img/portfolio/loro-blonyo.jpg"
+      "largeImage": "img/portfolio/kipas10.jpg",
+      "smallImage": "img/portfolio/kipas10.jpg"
     },
     {
       "title": "Sablon Kipas",
-      "largeImage": "img/portfolio/loro-blonyo.jpg",
-      "smallImage": "img/portfolio/loro-blonyo.jpg"
+      "largeImage": "img/portfolio/kipas8.png",
+      "smallImage": "img/portfolio/kipas8.png"
+    },
+    {
+      "title": "Kipas Batik",
+      "largeImage": "img/portfolio/kipas9.jpg",
+      "smallImage": "img/portfolio/kipas9.jpg"
     }
   ],
   "Services": [
@@ -96,7 +101,7 @@
     "phone": "0858 6866 5608",
     "email": "-",
     "whatsapp": "https://wa.link/xax8za",
-    "instagram": "https://www.slarongindahsouvenir.techkudev.com/",
+    "instagram": "https://www.instagram.com/",
     "facebook": "https://www.facebook.com/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
