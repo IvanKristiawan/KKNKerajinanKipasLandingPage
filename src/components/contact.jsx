@@ -90,7 +90,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Sanggar Diponegoro Kembang Putihan
+            &copy; 2023 Slarong Indah Souvenir Kembang Putihan
           </p>
         </div>
       </div>
